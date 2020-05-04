@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="baec3169-7bee-424a-8a44-8f8ce48d1383" name="Default Changelist" comment="" />
+    <list default="true" id="baec3169-7bee-424a-8a44-8f8ce48d1383" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,9 +56,6 @@
       <module name="drive-into-deep-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/AlexNet" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -223,6 +222,7 @@
       <workItem from="1588382577560" duration="15426000" />
       <workItem from="1588560427204" duration="4937000" />
       <workItem from="1588577541768" duration="5859000" />
+      <workItem from="1588596588216" duration="191000" />
     </task>
     <servers />
   </component>
@@ -234,10 +234,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="828" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587723218984" />
-    <state x="689" y="218" key="FileChooserDialogImpl" timestamp="1587819000740">
+    <state x="972" y="267" key="FileChooserDialogImpl" timestamp="1588596762956">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="689" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587819000740" />
+    <state x="972" y="267" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588596762956" />
     <state width="908" height="264" key="GridCell.Tab.0.bottom" timestamp="1588342358663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -254,10 +254,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="908" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588342358663" />
-    <state x="382" y="78" key="SettingsEditor" timestamp="1587722607323">
+    <state x="382" y="78" key="SettingsEditor" timestamp="1588596775331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="382" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587722607323" />
+    <state x="382" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588596775331" />
     <state x="628" y="156" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1588585849432">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
