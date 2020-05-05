@@ -85,9 +85,9 @@ def load_data_fashion_mnist(batch_size, resize=None, root=os.path.join(
         num_workers=num_workers)
     return train_iter, test_iter
 
-batch_size = 1
+batch_size = 128
 # 如出现“out of memory”的报错信息，可减小batch_size或resize
-train_iter, test_iter = load_data_fashion_mnist(batch_size)
+train_iter, test_iter = load_data_fashion_mnist(batch_size, resize=224)
 
 
 """

@@ -3,6 +3,34 @@
   <component name="ChangeListManager">
     <list default="true" id="baec3169-7bee-424a-8a44-8f8ce48d1383" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/1-basic/batch-norm-gluon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/1-basic/batch-norm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/4-NiN/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/4-NiN/nin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/5-GoogLeNet/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlexNet/AlexNet-gluon.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2-AlexNet/AlexNet-gluon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlexNet/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1-basic/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlexNet/问题.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/2-AlexNet/问题.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VGG/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2-AlexNet/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VGG/vgg.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/3-VGG/vgg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/3-VGG/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/dropout-gluon.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1-basic/dropout-gluon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/dropout.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1-basic/dropout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/house-price-data/data_description.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/1-basic/house-price-data/data_description.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/house-price-data/house-prices-advanced-regression-techniques.zip" beforeDir="false" afterPath="$PROJECT_DIR$/src/1-basic/house-price-data/house-prices-advanced-regression-techniques.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/house-price-data/sample_submission.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/1-basic/house-price-data/sample_submission.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/house-price-data/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/1-basic/house-price-data/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/house-price-data/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/1-basic/house-price-data/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/kaggle-house-price.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1-basic/kaggle-house-price.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/linear-regression-gluon.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1-basic/linear-regression-gluon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/linear-regression-scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1-basic/linear-regression-scratch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/linear-regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1-basic/linear-regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/mlp-gluon.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1-basic/mlp-gluon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/mlp-scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1-basic/mlp-scratch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/reg-scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1-basic/reg-scratch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/softmax-regression-gluon.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1-basic/softmax-regression-gluon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/softmax-regression-scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1-basic/softmax-regression-scratch.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +74,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\git-learnDL\learnDL" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\workspace\drive-into-deep-learning\src\basic\house-price-data" />
       <recent name="D:\workspace\drive-into-deep-learning\test\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.AlexNet-gluon">
+  <component name="RunManager" selected="Python.batch-norm-gluon">
     <configuration name="AlexNet-gluon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="drive-into-deep-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,6 +116,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="batch-norm-gluon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="drive-into-deep-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/basic/batch-norm-gluon.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,28 +190,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reg-scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="drive-into-deep-learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/basic/reg-scratch.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="vgg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="drive-into-deep-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.batch-norm-gluon" />
         <item itemvalue="Python.AlexNet-gluon" />
         <item itemvalue="Python.vgg" />
         <item itemvalue="Python.cnn-gluon" />
         <item itemvalue="Python.kaggle-house-price" />
-        <item itemvalue="Python.reg-scratch" />
       </list>
     </recent_temporary>
   </component>
@@ -262,10 +293,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="628" y="156" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1588585849432" />
-    <state x="1019" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1588579464316">
+    <state x="1019" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1588668827364">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1019" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588579464316" />
+    <state x="1019" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588668827364" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/drive_into_deep_learning$liner_regression_scratch.coverage" NAME="liner-regression-scratch Coverage Results" MODIFIED="1588298137654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/basic" />
